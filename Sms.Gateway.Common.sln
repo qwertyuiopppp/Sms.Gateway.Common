@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sms.Gateway.Common", "Sms.Gateway.Common\Sms.Gateway.Common.csproj", "{9272D0B7-265C-4BC0-8F86-A9637A2A6288}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9272D0B7-265C-4BC0-8F86-A9637A2A6288}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9272D0B7-265C-4BC0-8F86-A9637A2A6288}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9272D0B7-265C-4BC0-8F86-A9637A2A6288}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9272D0B7-265C-4BC0-8F86-A9637A2A6288}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
